@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Governance"
+  short_description: "Gate Skill, Plugin, MCP, and App architecture"
+  default_prompt: "Use $skill-governance to complete the architecture Entry Gate before implementation."
+
+policy:
+  allow_implicit_invocation: true
